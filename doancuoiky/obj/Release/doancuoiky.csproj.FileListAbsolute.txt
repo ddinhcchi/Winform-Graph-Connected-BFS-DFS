@@ -1,0 +1,16 @@
+D:\Baitap\ltdt\doancuoiky\doancuoiky\bin\Release\doancuoiky.exe.config
+D:\Baitap\ltdt\doancuoiky\doancuoiky\bin\Release\doancuoiky.exe
+D:\Baitap\ltdt\doancuoiky\doancuoiky\bin\Release\doancuoiky.pdb
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.FrmMain.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.FrmReadGraph.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.HuongDan.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.Properties.Resources.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.csproj.GenerateResource.cache
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.csproj.CoreCompileInputs.cache
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.exe
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.pdb
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.AddEdge.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.AddVertex.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.DoiTenDinh.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.DoiTrongSo.resources
+D:\Baitap\ltdt\doancuoiky\doancuoiky\obj\Release\doancuoiky.csprojAssemblyReference.cache
